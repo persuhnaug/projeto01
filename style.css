@@ -1,1 +1,62 @@
-h1 color red
+*{
+    margin: 10;
+    padding: 0;
+}
+.cabeçalho{
+    background-color: rgb(255, 146, 5);
+    display: flex;
+    border-radius: 34px;
+    
+   
+}
+    input{
+        margin-left: 407px;
+        padding: 40px;
+        border-radius: 56px;
+        height: 20px;
+        margin-top: 20px;
+        width: 230px;
+    }
+    button{
+        margin-left: 170px;
+        padding:10px;
+        background-color: rgb(31, 29, 26);
+        color: white;
+        border-radius: 36PX;
+        margin-top: 24px;
+    }
+body {
+    background-color: rgb(253, 164, 48)
+}
+
+img{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#oi{
+    padding: 10px;
+    margin-left: 8%;
+}
+.titulo{
+    font-size: 145%;
+    margin-top: 3%;
+    margin-left: 37%;
+
+}
+p{
+    font-size: 22px;
+}
+.img1{
+    margin-left: 0%;
+}
+.p1{
+    margin-left:1%;
+}
+.img2{
+    margin-left: 70%;
+    margin-top: -21%;
+}
+.p2{
+    margin-left: 60%;
+    font-size: 22px;
+}
