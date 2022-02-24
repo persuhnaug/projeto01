@@ -1,9 +1,5 @@
-*{
-    margin: 10;
-    padding: 0;
-}
 .cabeçalho{
-    background-color: rgb(255, 146, 5);
+    background-color: rgb(255, 150, 5);
     display: flex;
     border-radius: 34px;
     
@@ -16,14 +12,18 @@
         height: 20px;
         margin-top: 20px;
         width: 230px;
+        border-color: black;
+        font-size: 19px;
+        color: black;
     }
     button{
         margin-left: 170px;
         padding:10px;
-        background-color: rgb(31, 29, 26);
-        color: white;
+        background-color: white;
+        color: black;
         border-radius: 36PX;
         margin-top: 24px;
+        border-color: black;
     }
 body {
     background-color: rgb(253, 164, 48)
@@ -59,4 +59,15 @@ p{
 .p2{
     margin-left: 60%;
     font-size: 22px;
+}
+.produtos{
+    margin-top: 100px;
+}
+.cabeçalho2{
+    margin-left: -10%;
+    font-size: 22%;
+    padding: -10%;
+}
+.button1p{
+    margin-left: 0px;
 }

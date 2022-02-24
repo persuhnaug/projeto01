@@ -1,0 +1,23 @@
+.cabeçalho{
+    background-color: rgb(255, 150, 55);
+    display: flex;
+    border-radius: 34px;
+}  
+.button{
+    margin-left: 440px;
+    
+}
+input{
+    padding: 10px;
+    font-size: 20;
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 20px;
+    border-color: black;
+    color: black;
+    margin-left: 50px;
+    ;
+}
+body{
+    background-color: orange ;
+}
